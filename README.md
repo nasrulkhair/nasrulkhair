@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrulkhair&label=Profile%20views&color=0e75b6&style=flat" alt="nasrulkhair" /> </p>
 
-- 🔭 I’m currently working on **Oil & Gas Industry Analysis**
+- 🔭 I’m currently working on **Multi Industry Analysis**
 
 - 🌱 I’m currently learning **Data Analytics and Machine Learning**
 
